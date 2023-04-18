@@ -1,0 +1,17 @@
+*{
+    font-size: 20px;
+}
+
+#h2{
+    text-align: center;
+    color:blueviolet;
+    text-decoration: underline;
+}
+p{
+    font-size: 2rem;
+
+}
+#pixel{
+    font-size: 32px;
+
+}
